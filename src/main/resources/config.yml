@@ -1,0 +1,15 @@
+# %playerName% %onlinePlayer% %tps% %faction% %balance% %gradePrefix% %votePartyCount% %votePartyObjectif% %currentServerName%
+# %server.name.info%
+license: ""
+scoreboardTitle: "&e»&6Hezia&e«"
+rows:
+  - ""
+  - "&7» &e%playerName%"
+#  - "Grade : %gradePrefix%"
+#  - "Monnaie : &6%balance%"
+  - ""
+  - "&7» &eServeur"
+  - "&eFaction: "
+  - "bj %server.faction.%serverStatuts%%"
+#  - "Joueurs : &6%onlinePlayer%"
+#  - "Faction : &6%faction%"
